@@ -41,3 +41,7 @@ color: #ff0033;
     animation:spin 4s linear infinite;
 }
 
+input {
+font-size: 40px;
+}
+
